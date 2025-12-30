@@ -1,27 +1,26 @@
 {
   "accountAssociation": {
-    "header": "[FARCASTER'DAN ALINACAK]",
-    "payload": "[FARCASTER'DAN ALINACAK]",
-    "signature": "[FARCASTER'DAN ALINACAK]"
+    "header": "eyJmaWQiOjg5OTA3NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGZiMTE3MjdkYzI4MDdhOEY5MzZlZjZmZDFGZmU3MWQxNkMyMEYxMTIifQ",
+    "payload": "eyJkb21haW4iOiJ6Z3ItbWFuLnZlcmNlbC5hcHAifQ",
+    "signature": "PYGwwAVcAjYLhbslw8Lmpm89YFplHucZ/sigYhS8se4GzUc3GOUiyhpWarDul3s3VdvMeGJ9IU9+C6Yhfe2CLRw="
   },
   "frame": {
     "version": "1",
     "name": "Pilardo",
     "subtitle": "Touch Pool Game",
     "description": "A simple 2D top-down billiard game with touch controls, realistic ball physics, and score tracking. Sink all the balls!",
-    "iconUrl": "https://[DOMAIN]/icon.png",
-    "homeUrl": "https://[DOMAIN]",
-    "imageUrl": "https://[DOMAIN]/preview.png",
-    "splashImageUrl": "https://[DOMAIN]/icon.png",
+    "iconUrl": "https://zgr-man.vercel.app/icon.png",
+    "homeUrl": "https://zgr-man.vercel.app",
+    "imageUrl": "https://zgr-man.vercel.app/preview.png",
+    "splashImageUrl": "https://zgr-man.vercel.app/icon.png",
     "splashBackgroundColor": "#0a1628",
     "primaryCategory": "games",
     "tags": ["game", "arcade", "farcaster", "pool", "billiard"],
-    "tagline": "Touch & Play Pool",
-    "heroImageUrl": "https://[DOMAIN]/preview.png",
-    "screenshotUrls": ["https://[DOMAIN]/preview.png"],
+    "tagline": "Touch and Play Pool",
+    "heroImageUrl": "https://zgr-man.vercel.app/preview.png",
+    "screenshotUrls": ["https://zgr-man.vercel.app/preview.png"],
     "ogTitle": "Pilardo - Touch Pool Game",
     "ogDescription": "Play billiards on Farcaster! Touch controls, realistic physics.",
-    "ogImageUrl": "https://[DOMAIN]/preview.png"
+    "ogImageUrl": "https://zgr-man.vercel.app/preview.png"
   }
 }
-
